@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/PlaygroundWeChatBLE-common",
+    "packages_imported/kotlin/1.3.61",
+    "packages_imported/kotlin-source-map-loader/1.3.61"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "PlaygroundWeChatBLE",
+  "version": "0.0.1"
+}
